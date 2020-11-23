@@ -10,9 +10,9 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 ## Tableau Dashboards:
 
-![Citi-Bikes](Images/GenderAnalysis.jpg)
-
 ![Citi-Bikes](Images/UserType.jpg)
+
+![Citi-Bikes](Images/GenderAnalysis.jpg)
 
 ![Citi-Bikes](Images/Map.jpg)
 
