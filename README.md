@@ -13,5 +13,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 ![Citi-Bikes](Images/UserType.jpg)
 
+![Citi-Bikes](Images/Map.jpg)
+
 ![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
 
