@@ -1,7 +1,7 @@
 # Tableau Citi Bike Analytics
 
 ## Tableau Dashboard Link:
-https://public.tableau.com/views/CitiBikeJanuary20192020Analysis/CitiBikeJanuary20192020Analysis?:language=en&:display_count=y&:origin=viz_share_link
+https://public.tableau.com/views/CitiBikeJanuary20192020GenderAnalysis/CitiBikeJanuary20192020Analysis?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
 
 
 Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
